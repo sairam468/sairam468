@@ -1,15 +1,17 @@
 # 👋 Hi, I'm Ganta Lakshman Naga Durga Sairam
 
-### 💻 Java Full Stack Developer | Spring Boot | Microservices | REST APIs  
+### 💻 Java Full Stack Developer | Spring Boot | REST APIs | Microservices  
 🎓 ECE Graduate (2023)  
 📍 Hyderabad, India  
 
-Backend-focused developer with hands-on experience building scalable web applications using Java and the Spring ecosystem.  
-Strong foundation in core Java web technologies and progressing toward distributed microservices architecture.
+I’m a backend-focused Java developer with hands-on experience building **scalable web applications** using the Spring ecosystem.  
+I enjoy designing **clean layered architectures**, working with databases, and gradually evolving systems from **monoliths to microservices**.
+
+I believe in understanding fundamentals deeply — from **Core Java & JDBC** to **Spring Boot & distributed systems**.
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
 ### 🧠 Backend
 - Java
@@ -18,20 +20,20 @@ Strong foundation in core Java web technologies and progressing toward distribut
 - Spring Data JPA
 - Spring Security
 - Spring Cloud
-- Microservices Architecture
 - REST API Development
+- Microservices Architecture
 
 ### 🌐 Frontend
 - HTML, CSS, JavaScript
-- React
 - Thymeleaf
+- React
 
 ### 🗄 Database
 - MySQL
 - Oracle
 - JDBC
 
-### ⚙ Tools
+### ⚙ Tools & Platforms
 - Git & GitHub
 - Maven
 - Postman
@@ -39,123 +41,125 @@ Strong foundation in core Java web technologies and progressing toward distribut
 
 ---
 
-# 🏆 Featured Projects
+## 🏆 Featured Projects
 
----
+### 🛒 ShopNest – E-Commerce Application
+A production-style **full-stack e-commerce application** built using Spring Boot and Thymeleaf.
 
-## 🛒 ShopNest – E-Commerce Application
-Full-stack Spring Boot application implementing authentication, cart management, and order workflow.
-
-🔹 Spring Boot + Thymeleaf  
-🔹 Session-based cart  
-🔹 JPA query optimization  
-🔹 Clean MVC architecture  
+**Highlights**
+- User authentication & session-based cart
+- Product browsing, checkout & order workflow
+- Optimized JPA queries
+- Clean MVC layered architecture
 
 👉 https://github.com/sairam468/shopnest-ecommerce-application
 
 ---
 
-## 🏢 Employee Leave Management System (REST API)
-Backend RESTful API for managing leave workflows.
+### 🏢 Employee Leave Management System (REST API)
+A backend-focused **RESTful API** for managing employee leave workflows.
 
-🔹 CRUD-based API  
-🔹 Layered architecture  
-🔹 Spring Data JPA integration  
-🔹 Tested using Postman  
+**Highlights**
+- CRUD-based REST endpoints
+- Layered architecture (Controller–Service–Repository)
+- Spring Data JPA integration
+- API testing using Postman
 
 👉 https://github.com/sairam468/employee-leave-management-system
 
 ---
 
-## 🌐 Spring Boot Microservices Architecture
-Distributed microservices implementation using Spring Cloud.
+### 🌐 Spring Boot Microservices Architecture
+Hands-on implementation of **distributed microservices** using Spring Cloud.
 
-🔹 Eureka Service Discovery  
-🔹 API Gateway  
-🔹 Config Server  
-🔹 Feign Client  
-🔹 Load Balancing  
-🔹 Circuit Breaker  
+**Concepts Covered**
+- Eureka Service Discovery  
+- API Gateway  
+- Config Server  
+- Feign Client  
+- Load Balancing  
+- Circuit Breaker  
 
 👉 https://github.com/sairam468/springboot-microservices-architecture
 
 ---
 
-## 🚀 Spring Boot Mini Projects Suite
-Collection of structured backend applications demonstrating MVC architecture and security integration.
+### 🚀 Spring Boot Mini Projects Suite
+A collection of structured Spring Boot applications demonstrating real-world backend patterns.
 
-Includes:
+**Includes**
 
-### 📊 Reports Generation Application
-- Dynamic report filtering
-- Pagination & optimized query handling
+📊 **Reports Generation Application**  
+- Dynamic report filtering  
+- Pagination & query optimization  
 
-### 🎓 Student Enquiry Management System
-- CRUD operations
-- Search functionality
-- Spring Security authentication
+🎓 **Student Enquiry Management System**  
+- CRUD & search functionality  
+- Secure authentication with Spring Security  
 
-### 📝 Blog Management Application
-- Post, category & comment management
-- JPA entity relationships
-- Layered architecture implementation
+📝 **Blog Management Application**  
+- Posts, categories & comments  
+- JPA entity relationships  
+- Modular MVC architecture  
 
 👉 https://github.com/sairam468/springboot-mini-projects-suite
 
 ---
 
-## 📚 SAIBOOK – Java Web Technologies Project
-Online bookstore built using JDBC, Servlets, JSP, EL/JSTL.
+### 📚 SAIBOOK – Java Web Technologies Project
+An online bookstore built using **classic Java web technologies**.
 
-🔹 DAO Pattern  
-🔹 Session Tracking  
-🔹 MVC architecture  
-🔹 Tomcat deployment  
+**Highlights**
+- JDBC + Servlets + JSP  
+- EL & JSTL usage  
+- DAO pattern implementation  
+- Session-based cart management  
+- Deployed on Apache Tomcat  
 
 👉 https://github.com/sairam468/saibook-online-bookstore
 
 ---
 
-# 📂 Learning & Concept Repositories
+## 📂 Learning & Concept Repositories
 
-### Spring Ecosystem
+### 🌱 Spring Ecosystem
 - springboot-rest-api-examples
 - springboot-mvc-examples
 - springdata-jpa-examples
 - springboot-core-concepts
 - spring-framework-core-concepts
 
-### Java Web Technologies
-- servlet-jsp-web-examples
+### 🌐 Java Web Technologies
+- servlet-jsp-web-development
 - jdbc-database-examples
 - java-web-technologies-collection
 
-### Core Java
+### ☕ Core Java
 - core-java-fundamentals
 
-### Frontend
+### 🎨 Frontend
 - react-concepts-and-projects
 - developer-portfolio
 
 ---
 
-# 📈 What I Focus On
+## 📈 What I Focus On
 
-✔ Clean Layered Architecture  
-✔ Backend System Design  
-✔ Database Optimization  
-✔ REST API Development  
-✔ Distributed Microservices Concepts  
-✔ Security & Authentication Integration  
-✔ Real-World Project Implementation  
+✔ Clean layered architecture  
+✔ Backend system design  
+✔ Database & query optimization  
+✔ RESTful API development  
+✔ Distributed microservices concepts  
+✔ Security & authentication integration  
+✔ Real-world, production-style projects  
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/glndsairam  
-- Email: sairamganta1@gmail.com  
-- GitHub: https://github.com/sairam468  
+- 🔗 LinkedIn: https://www.linkedin.com/in/glndsairam  
+- 📧 Email: sairamganta1@gmail.com  
+- 💻 GitHub: https://github.com/sairam468  
 
 ---
 
